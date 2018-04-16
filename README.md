@@ -10,6 +10,14 @@ Refer to the [Pandoc documentation](http://pandoc.org/MANUAL.html#templates) for
 
 To use this as your default template, move `html-oida.html` to the `templates` folder of your Pandoc [user data directory](http://pandoc.org/MANUAL.html#general-options) (search for `--data-dir`) and rename it to `default.html5`.
 
+## Can I have a preview?
+
+[Sure.](https://hirnsalat.github.io/html-oida/)
+
+## I'm already in the preview, where do I download this?
+
+[Over here.](https://github.com/hirnsalat/html-oida)
+
 ## Does it still support syntax highlighting, MathJax and other fancy Pandoc features?
 
 Of course. Unless I broke something.
